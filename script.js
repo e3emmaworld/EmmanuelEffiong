@@ -21,7 +21,7 @@ spellWord();
 const box = document.getElementById('rotating-border');
 
 // Array of colors to rotate through
-const colors = ['red', 'blue', 'green', 'yellow', 'purple', 'orange'];
+const colors = ['red', 'black', 'pink', 'white', 'blue', 'green', 'yellow', 'purple', 'orange'];
 
 let colorIndex = 0;
 
