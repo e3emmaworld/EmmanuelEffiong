@@ -164,12 +164,13 @@ footer {
 }
 
 .box {
-  width: 200px;
-  height: 200px;
+  width: 3500px;
+  height: 300px;
   border: 10px solid;
   border-color: red;
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 50px auto;
+  border-radius: 10px;
 }
