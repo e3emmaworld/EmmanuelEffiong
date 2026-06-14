@@ -186,3 +186,14 @@ footer {
         width: 100%;
     }
 }
+footer {
+    width: 1250px;
+    height: 300px;
+    background-color: grey;
+    z-index: auto;
+}
+.link {
+    float: inline-start;
+    font-style: italic;
+    margin: 90px;
+}
